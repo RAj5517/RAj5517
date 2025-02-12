@@ -7,12 +7,12 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ---
 
 ### 🚀 GitHub Stats:
-![Prabal's GitHub stats](https://github-readme-stats.vercel.app/api?username=alienx5499&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical)
+![Sayanendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=alienx5499&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical)
 
 ---
 
 ### 🔥 Streak Stats:
-[![Prabal's GitHub Streak](https://streak-stats.demolab.com?user=alienx5499&theme=radical)](https://git.io/streak-stats)
+[![Sayanendu's GitHub Streak](https://streak-stats.demolab.com?user=alienx5499&theme=radical)](https://git.io/streak-stats)
 
 ---
 
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ---
 
 ### 🎖 Holopin Badges:
-[![Prabal's Holopin board](https://holopin.me/alienx5499)](https://holopin.io/@alienx5499)
+[![Sayanendu's Holopin board](https://holopin.me/alienx5499)](https://holopin.io/@alienx5499)
 
 ---
 
