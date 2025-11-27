@@ -6,11 +6,6 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ---
 
-### 🚀 GitHub Stats:
-![Sayanendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=alienx5499&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=radical)
-
----
-
 ### 🔥 Streak Stats:
 [![Sayanendu's GitHub Streak](https://streak-stats.demolab.com?user=alienx5499&theme=radical)](https://git.io/streak-stats)
 
