@@ -1,25 +1,17 @@
 # 💫 About Me:
+
 🔭 Currently: Working as a Teaching Assistant while pursuing my studies
-
 👨‍💻 Strong In: System Design (HLD + LLD), Backend Engineering, Full-Stack Development
-
 👯 Looking to Collaborate On: Internship opportunities in Backend, System Design, Full Stack, or AI Engineering
-
 🤝 Actively Seeking: Internship roles where I can build real-world scalable systems and contribute meaningfully
-
 🌱 Currently Learning: Deep Learning, AI Systems, and scalable ML infrastructure
-
 💬 Ask Me About:
 
-System Architecture evolution
-
-Backend performance & database design
-
-Message queues (Kafka/RabbitMQ)
-
-Scalable distributed systems
-
-AI system fundamentals
+- System Architecture evolution
+- Backend performance & database design
+- Message queues (Kafka/RabbitMQ)
+- Scalable distributed systems
+- AI system fundamentals
 
 ⚡ Fun Fact: I don’t just study system design — I rebuild it layer by layer until it makes architectural sense 🚀
 
