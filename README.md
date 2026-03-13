@@ -1,10 +1,15 @@
 # 💫 About Me
 
-🤖 **Currently:** Building Agentic AI & Deep Learning systems | TA @ Scaler School of Technology  
+🤖 **Currently:** Building Agentic AI & Deep Learning systems | TA @ Scaler School of Technology
+
 🔭 **Focused On:** Deep Learning · Agentic AI · Edge ML · Multimodal Learning  
-🧠 **Strong In:** Model compression pipelines, biosignal processing, self-supervised learning, TFLite deployment  
+
+🧠 **Strong In:** Model compression pipelines, biosignal processing, self-supervised learning, TFLite deployment
+
 👯 **Looking to Collaborate On:** ML research, Agentic AI projects, edge deployment, LLM-based systems  
+
 🤝 **Actively Seeking:** ML Engineer / Deep Learning roles where I can ship real models to production  
+
 🌱 **Currently Exploring:** Agentic AI architectures, RAG pipelines, LLM fine-tuning, multimodal systems  
 
 💬 **Ask Me About:**
